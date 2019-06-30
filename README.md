@@ -29,7 +29,7 @@ You should see this
 
 8. #### Specify a name, it does not matter exactly what it is
 
-9. #### Change the Filepath to as high up as possible, for example C:\ and then hit 'Finish'
+9. #### Change the Filepath to as high up as possible but still within your user folder, for example C:\Users\akhil_ and then hit 'Finish'
 
 ![Project Path Update](https://raw.githubusercontent.com/akkim3/carnegie285XCAD/master/CADGuide/Screenshot_5.png)
 

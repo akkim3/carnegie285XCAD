@@ -31,6 +31,8 @@ You should see this
 
 9. #### Change the Filepath to as high up as possible, for example C:\ and then hit 'Finish'
 
+![Project Path Update](https://raw.githubusercontent.com/akkim3/carnegie285XCAD/master/CADGuide/Screenshot_5.png)
+
 
 
 
